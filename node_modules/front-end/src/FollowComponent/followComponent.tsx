@@ -8,7 +8,7 @@ var isf = false;
     function follow()
     {
 
-        if(isf==false)
+        if(isf===false)
         {
             //Not Following
 
@@ -20,7 +20,7 @@ var isf = false;
 
     function unfollow()
     {
-        if(isf==true)
+        if(isf===true)
         {
             //Following
 
